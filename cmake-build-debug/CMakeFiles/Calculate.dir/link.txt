@@ -1,3 +1,1 @@
-"D:\Programming\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Calculate.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Calculate.dir/objects.a @CMakeFiles\Calculate.dir\objects1.rsp
-C:\PROGRA~1\LLVM\bin\clang.exe -g   -Wl,--whole-archive CMakeFiles\Calculate.dir/objects.a -Wl,--no-whole-archive  -o Calculate.exe -Wl,--out-implib,libCalculate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calculate.dir\linklibs.rsp
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Calculate.dir/main.c.o  -o Calculate 
