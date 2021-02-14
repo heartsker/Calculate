@@ -1,0 +1,17 @@
+"D:\Programming\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=C:/Program Files/LLVM/bin/clang.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/LLVM/bin/clang++.exe" -G "CodeBlocks - MinGW Makefiles" D:\Programming\GIT\Calculate\Calculate
+-- The C compiler identification is Clang 3.7.0
+-- Check for working C compiler: C:/Program Files/LLVM/bin/clang.exe
+-- Check for working C compiler: C:/Program Files/LLVM/bin/clang.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_CXX_COMPILER
+
+
+-- Build files have been written to: D:/Programming/GIT/Calculate/Calculate/cmake-build-debug
